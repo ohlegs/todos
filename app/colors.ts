@@ -1,0 +1,10 @@
+export const TODOLOGO = 'rgba(175, 47, 47, 0.15)';
+export const NOT_ACTIVE = '#f0f0f0';
+export const ACTIVE = '#737373';
+export const border = '#ededed';
+export const green_border = '#cbe2de';
+export const green = '#5dc2af';
+export const gray_lite = '#d9d9d9';
+export const red = '#af5b5e';
+export const black = '#000000';
+export const transparent = 'transparent';
